@@ -1,2 +1,2 @@
 select * from customers 
-where loc='rajahmundry'
+where loc='hyderabad'
